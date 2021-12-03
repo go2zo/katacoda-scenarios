@@ -12,4 +12,5 @@
 - katacoda 계정생성
 - 프로필 및 git 저장소 설정
 - `katacoda cli` 설치
+- VSCode Extension
 - scenario 생성
