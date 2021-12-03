@@ -23,3 +23,5 @@ CLI 설치를 위해 `npm install katacoda-cli --global`{{execute}}를 실행한
 해당 extension은 VS Code에서 katacoda를 위한 snippets를 제공한다.
 
 <https://marketplace.visualstudio.com/items?itemName=Katacoda.vscode>
+
+터미널에 `VS Code extensions installed, now you can open the IDE`라고 뜨면 IDE 탭을 열어 extension이 설치되었는지 확인한다.
