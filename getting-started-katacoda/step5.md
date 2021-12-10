@@ -6,9 +6,10 @@
 
 > 계정은 본인 계정으로 변경이 필요하다.
 
-`git clone https://github.com/go2zo/katacoda-scenarios-example.git`{{execute}}
-
-`cd katacoda-scenarios-example`
+```sh
+git clone https://github.com/go2zo/katacoda-scenarios-example.git
+cd katacoda-scenarios-example
+```{{execute}}
 
 ## 시나리오 생성
 
@@ -16,7 +17,7 @@
 
 몇가지 항목을 입력하여 시나리오를 생성한다.
 
-- Friendly URL: 시나리오 폴더명. 소문자여야 하며 공백불가.
+- Friendly URL: 시나리오 폴더명은 소문자여야 하며 공백불가.
 
 - Title: 프로필에 표시되는 시나리오명.
 
