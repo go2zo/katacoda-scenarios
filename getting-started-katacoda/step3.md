@@ -1,5 +1,3 @@
-# Katacoda CLI 설치
-
 Katacoda CLI는 scenario, course등을 간편하게 생성/설정하도록 지원한다. 실제 katacoda 파일들은 json, md로 되어있으므로 CLI 없이 작성이 가능하다.
 
 ## Prerequisite

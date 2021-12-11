@@ -1,5 +1,3 @@
-# 프로필 설정
-
 로그인을 하고 메인화면에서 `Create > Create First Scenario`를 선택한다.
 
 ![katacoda.com Menu](./assets/katacoda-com-menu.png)

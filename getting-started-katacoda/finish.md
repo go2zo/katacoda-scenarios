@@ -1,5 +1,3 @@
-# References
-
 ## Scenario Template
 
 시나리오 템플릿이 필요하다면 아래 github 저장소를 다운로드 한다.

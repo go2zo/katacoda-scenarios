@@ -1,5 +1,3 @@
-# VS Code Extension
-
 VS Code로 katacode를 작성할 때 아래 extension을 설치하면 snippets를 제공한다. 아래 url에 들어가면 snippets 목록을 확인할 수 있다.
 
 <https://marketplace.visualstudio.com/items?itemName=Katacoda.vscode>

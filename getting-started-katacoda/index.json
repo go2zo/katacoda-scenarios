@@ -6,25 +6,25 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Katacoda 계정 생성",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "프로필 설정",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Katacoda CLI 설치",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "VS Code Extension",
         "courseData": "setup.sh",
         "code": "step4-foreground.sh",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Create First Scenario",
         "text": "step5.md"
       }
     ],

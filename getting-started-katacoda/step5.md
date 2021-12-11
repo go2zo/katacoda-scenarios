@@ -1,8 +1,4 @@
-# Create First Scenario
-
-## Git 저장소 clone
-
-이미 katacoda 프로필에 git 저장소가 설치되어 있다면 해당 저장소를 clone 한다.
+katacoda 프로필 설정에서 git 저장소를 생성했다면 clone 한다.
 
 > 계정은 본인 계정으로 변경이 필요하다.
 
