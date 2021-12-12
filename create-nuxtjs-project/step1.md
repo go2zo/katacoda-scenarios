@@ -11,7 +11,7 @@ npm init nuxt-app <project-name>
 npx create-nuxt-app <project-name>
 ```
 
-`yarn create nuxt-app my-nuxt-project`{{execute}}를 실행하고 아래를 순서대로 입력한다.
+`npx create-nuxt-app my-nuxt-project`{{execute}}를 실행하고 아래를 순서대로 입력한다.
 
 - Project name: <kbd>enter</kbd>
 - Programming language: `TypeScript` 선택
