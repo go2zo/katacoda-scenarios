@@ -11,7 +11,7 @@ npm init nuxt-app <project-name>
 npx create-nuxt-app <project-name>
 ```
 
-`npx create-nuxt-app my-nuxt-project`{{execute}}를 실행하고 아래를 순서대로 입력한다.
+`yarn create nuxt-app my-nuxt-project`{{execute}}를 실행하고 아래를 순서대로 입력한다.
 
 - Project name: <kbd>enter</kbd>
 - Programming language: `TypeScript` 선택
@@ -28,7 +28,7 @@ npx create-nuxt-app <project-name>
 
 프로젝트 폴더로 이동한다. `cd my-nuxt-project`{{execute}}
 
-`yarn dev`를 실행하면 nuxt를 개발환경에서 실행한다.
+`yarn dev`{{execute}}를 실행하면 nuxt를 개발환경에서 실행한다.
 
 `Port 3000` 탭을 선택하여 실행을 확인한다.
 
